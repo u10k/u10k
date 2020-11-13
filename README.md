@@ -1,23 +1,25 @@
-<h3 align="center">Hi there 👋</h3>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=u10k&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
+
+### Hello World! 👋
+
+Hi, I'm [huwenzhe](https://www.huwenzhe.com), a front-end 🌐 developer.
+
+💬 Ask me about anything [here](https://github.com/u10k/u10k/issues).
+
+![](https://visitor-badge.laobi.icu/badge?page_id=u10k.u10k)
+
+
 
 <!--
-**dearzoe/dearzoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![stat](https://github-readme-stats.vercel.app/api?username=u10k&show_icons=true&&theme=default&hide=["contribs"])](https://github.com/u10k)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u10k&layout=compact)](https://github.com/u10k)
+
+<details>
+<summary>CLICK ME</summary>
+
+![ip test](https://ip.ntrqq.net/images/yosuga.png?wd=JTIw&r=f7eppzl6j6)
+</details>
+
 -->
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=u10k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_title=true" />
-</p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u10k&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_title=true" />
-</p>

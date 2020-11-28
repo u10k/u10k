@@ -3,10 +3,10 @@
 ### Hello! 你好！ 👋
 
 Hi, I'm [huwenzhe](https://www.huwenzhe.com), a front-end 🌐 developer.
-<span>嗨， 我叫[胡文哲](https://www.huwenzhe.com)，一名前端开发者</span>  
+<div style="font-size: 12px;">嗨， 我叫[胡文哲](https://www.huwenzhe.com)，一名前端开发者</div>  
 
 💬 Ask me about anything [here](https://github.com/u10k/u10k/issues).
-<span>你可以在[这里](https://github.com/u10k/u10k/issues)问我任何问题</span>
+<div style="font-size: 12px;">你可以在[这里](https://github.com/u10k/u10k/issues)问我任何问题</div>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=u10k.u10k)
 

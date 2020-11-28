@@ -1,10 +1,12 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=u10k&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
 
-### Hello World! 👋
+### Hello! 你好！ 👋
 
 Hi, I'm [huwenzhe](https://www.huwenzhe.com), a front-end 🌐 developer.
+<span>嗨， 我叫[胡文哲](https://www.huwenzhe.com)，一名前端开发者</span>  
 
 💬 Ask me about anything [here](https://github.com/u10k/u10k/issues).
+<span>你可以在[这里](https://github.com/u10k/u10k/issues)问我任何问题</span>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=u10k.u10k)
 

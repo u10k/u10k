@@ -1,6 +1,7 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=u10k&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
 
-### Hello! 你好！ 👋
+### Hello! 👋
+### 你好！
 
 Hi, I'm [huwenzhe](https://www.huwenzhe.com), a front-end 🌐 developer.<br/>
 嗨， 我叫[胡文哲](https://www.huwenzhe.com)，一名前端开发者。<br/>

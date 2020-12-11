@@ -11,8 +11,6 @@ Hi, I'm [huwenzhe](https://www.huwenzhe.com), a front-end 🌐 developer.<br/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=u10k.u10k)
 
-
-
 <!--
 
 [![stat](https://github-readme-stats.vercel.app/api?username=u10k&show_icons=true&&theme=default&hide=["contribs"])](https://github.com/u10k)

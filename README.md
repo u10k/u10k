@@ -1,5 +1,3 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=u10k&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
-
 ### Hello! 👋
 ### 你好！👋
 

@@ -13,8 +13,6 @@ Hi, I'm [huwenzhe](https://www.huwenzhe.com), a front-end 🌐 developer.<br/>
 
 <!--
 
-[![stat](https://github-readme-stats.vercel.app/api?username=u10k&show_icons=true&&theme=default&hide=["contribs"])](https://github.com/u10k)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u10k&layout=compact)](https://github.com/u10k)
 
 <details>

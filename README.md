@@ -1,8 +1,8 @@
 ### Hello! 👋
 ### 你好！👋
 
-Hi, a front-end 🌐 developer.<br/>
-嗨，一名前端 🌐 开发者。<br/>
+A front-end 🌐 developer.<br/>
+一名前端 🌐 开发者。<br/>
 
 💬 Ask me about anything [here](https://github.com/u10k/u10k/issues).<br/>
 💬 你可以在[这里](https://github.com/u10k/u10k/issues)问我任何问题。<br/>
